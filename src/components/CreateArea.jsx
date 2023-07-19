@@ -59,7 +59,6 @@ function CreateArea(props) {
 <Zoom in={isExpendable}>
 
         <Fab onClick={submitNote}>
-        {/* Add */}
         <AddIcon/>
         </Fab>
 </Zoom>
